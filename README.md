@@ -2,6 +2,8 @@
 
 # Generative Agents: Interactive Simulacra of Human Behavior 
 
+Youtube Video to look at for help with running https://www.youtube.com/watch?v=sGf5g0c-7WQ
+
 <p align="center" width="100%">
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
